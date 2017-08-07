@@ -1,1 +1,3 @@
-abang tukag bakso mari mari sini
+<?php
+echo "abang tukag bakso mari mari sini\nsaya mau beli"
+?>
